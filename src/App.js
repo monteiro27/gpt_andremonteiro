@@ -18,6 +18,8 @@ const app = () => {
       <CTA />
       <Blog />
       <Footer />
+      <Footer />
+      <Footer />
     </div>
   )
 }
